@@ -165,7 +165,7 @@
     "semver": "^7.3.5",
     "send": "^0.17.2",
     "shelljs": "^0.8.5",
-    "stylelint": "^14.14.0",
+    "stylelint": "^16.9.0",
     "terser": "^5.10.0",
     "ts-node": "^10.9.1",
     "tsec": "0.2.2",
@@ -176,7 +176,7 @@
     "vrsource-tslint-rules": "6.0.0",
     "yaml": "^1.10.2",
     "yargs": "^17.3.1",
-    "zx": "^6.2.4"
+    "zx": "^8.0.0"
   },
   "resolutions": {
     "@angular/build-tooling/typescript": "5.6.1-rc",
