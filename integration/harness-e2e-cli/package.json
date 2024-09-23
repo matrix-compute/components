@@ -28,9 +28,9 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
-    "@angular/cli": "file:../../node_modules/@angular/cli",
-    "@angular/compiler-cli": "file:../../node_modules/@angular/compiler-cli",
+    "@angular-devkit/build-angular": "18.0.0",
+    "@angular/cli": "18.0.0",
+    "@angular/compiler-cli": "18.0.0",
     "@types/jasmine": "~3.10.0",
     "@types/node": "^12.11.1",
     "@types/selenium-webdriver": "3.0.19",
