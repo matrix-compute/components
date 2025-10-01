@@ -152,7 +152,7 @@
     "moment": "^2.29.1",
     "node-fetch": "^2.6.0",
     "parse5": "^7.1.2",
-    "patch-package": "^6.5.1",
+    "patch-package": "^8.0.1",
     "postcss": "^8.4.17",
     "postcss-scss": "^4.0.4",
     "protractor": "^7.0.0",
