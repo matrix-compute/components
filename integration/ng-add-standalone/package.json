@@ -12,7 +12,7 @@
   "dependencies": {
     "@angular/animations": "file:../../node_modules/@angular/animations",
     "@angular/cdk": "file:../../dist/releases/cdk",
-    "@angular/common": "file:../../node_modules/@angular/common",
+    "@angular/common": "19.2.16",
     "@angular/compiler": "file:../../node_modules/@angular/compiler",
     "@angular/core": "file:../../node_modules/@angular/core",
     "@angular/forms": "file:../../node_modules/@angular/forms",
@@ -25,7 +25,7 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
+    "@angular-devkit/build-angular": "19.0.0",
     "@angular/cli": "file:../../node_modules/@angular/cli",
     "@angular/compiler-cli": "file:../../node_modules/@angular/compiler-cli",
     "@types/jasmine": "~4.3.0",
