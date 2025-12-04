@@ -57,8 +57,8 @@
   "version": "19.0.0-next.5",
   "dependencies": {
     "@angular/animations": "^19.0.0-next.3",
-    "@angular/common": "^19.0.0-next.3",
-    "@angular/compiler": "^19.0.0-next.3",
+    "@angular/common": "^19.2.16",
+    "@angular/compiler": "^19.2.17",
     "@angular/core": "^19.0.0-next.3",
     "@angular/forms": "^19.0.0-next.3",
     "@angular/platform-browser": "^19.0.0-next.3",
@@ -70,7 +70,7 @@
     "zone.js": "~0.15.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^19.0.0-next.3",
+    "@angular-devkit/build-angular": "^19.0.0",
     "@angular-devkit/core": "^19.0.0-next.3",
     "@angular-devkit/schematics": "^19.0.0-next.3",
     "@angular/bazel": "https://github.com/angular/bazel-builds.git#9e6140d1eef8ddf7113d00738f603e9cc3c310f1",
@@ -126,7 +126,7 @@
     "dgeni": "^0.4.14",
     "dgeni-packages": "^0.29.5",
     "esbuild": "^0.17.5",
-    "firebase-tools": "^9.2.1",
+    "firebase-tools": "^13.10.0",
     "fs-extra": "^9.0.1",
     "glob": "^7.2.0",
     "highlight.js": "^10.7.0",
